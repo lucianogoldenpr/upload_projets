@@ -1,0 +1,5 @@
+{
+  "name": "GitShip AI",
+  "description": "Upload local projects, analyze them with Gemini AI to generate metadata, and publish them directly to GitHub repositories.",
+  "requestFramePermissions": []
+}
